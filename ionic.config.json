@@ -1,0 +1,8 @@
+{
+  "name": "AutoCompleteMap",
+  "app_id": "0efc87a1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
